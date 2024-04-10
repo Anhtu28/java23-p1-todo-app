@@ -1,0 +1,4 @@
+# Ignore file có tên .project(eclise tự cấu hình)
+**/.project
+**/.classpath
+**/bin
